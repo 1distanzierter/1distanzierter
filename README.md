@@ -1,6 +1,6 @@
 <h1 align="center">💯 Hello my name is Artur 💯</h1>
 - 🌱 I’m currently learning <b>C#</b><br>
-- 🔨 I’m currently working at <a href="https://discord.gg/xgjHAj7TCC">artur's market</a><br>
+- 🔨 I’m currently working at <a href="">nothing</a><br>
 
 <h3 align="left">How to reach me:</h3>
 <p align="left" dir="auto">
