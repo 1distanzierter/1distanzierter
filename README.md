@@ -1,5 +1,5 @@
 <h1 align="center">💯 Hello my name is Artur 💯</h1>
-- 🌱 I’m currently learning <b>C#</b><br>
+- 🌱 I’m currently learning <b>nothing</b><br>
 - 🔨 I’m currently working at <a href="">nothing</a><br>
 
 <h3 align="left">How to reach me:</h3>
