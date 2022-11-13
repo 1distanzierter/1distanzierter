@@ -1,4 +1,3 @@
-<h1 align="center">💯 Hello my name is Artur 💯</h1>
 # 💫 About Me:
 🔭 I’m currently working on AntiAC.net<br>🤝 I’m looking for help with nothing<br>🌱 I’m currently learning nothing<br>💬 Ask me about Java, Python<br>⚡ Fun fact im 160cm high
 
