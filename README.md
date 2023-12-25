@@ -8,7 +8,7 @@ Python > other Frameworks
 
 * 🌍  I'm based in Frankfurt am Main
 * 🖥️  See my portfolio at [my own website](http://soon.com)
-* ✉️  You can contact me at [artur.skuratowski@icloud.com](mailto:artur.skuratowski@icloud.com)
+* ✉️  You can contact me at [Discord]([https://discord.com/users/artur454)
 * 🚀  I'm currently working on [st4r bot](http://st4r.xyz/bot)
 * 🧠  I'm learning JavaScript
 
