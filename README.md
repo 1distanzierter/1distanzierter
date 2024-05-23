@@ -1,6 +1,5 @@
 # Hello everybody 👋
-
-<h1>Im Artur, 16y old and a Backend Developer</h1>
+<h3>Im Artur, 16y old and a Backend Developer</h3>
 
 ## My Skills:
 
