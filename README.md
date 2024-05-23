@@ -1,5 +1,5 @@
 # Hello everybody 👋
-# Im Artur, 16yo and Developer since 2021
+## Im Artur, 16yo and Developer since 2021
 
 ## My Skills:
 
