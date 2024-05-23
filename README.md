@@ -1,5 +1,4 @@
-# Hello everybody 👋
-## Im Artur, 16yo and Developer since 2021
+# Hello everybody 👋 My name is __Artur__
 
 ## My Skills:
 
